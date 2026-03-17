@@ -26,3 +26,18 @@ Make sure all project files (`board.py`, `players.py`, `tictactoe.py`, `utils.py
 
 ```bash
 python tictactoe.py
+
+```markdown
+## Sample Output
+
+With the default configuration in `tictactoe.py`:
+- Player 1 = `dp_player`
+- Player 2 = `td_player`
+- Number of games = `50`
+
+Example output:
+
+```text
+Wins for Player 1: 12
+Wins for Player 2: 0
+Draws: 38
